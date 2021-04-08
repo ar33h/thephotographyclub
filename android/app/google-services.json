@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108066321260",
+    "project_id": "tpc-sit",
+    "storage_bucket": "tpc-sit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108066321260:android:13158ff368ef2458df3949",
+        "android_client_info": {
+          "package_name": "com.example.sit_photography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108066321260-jaf1fmc7fuh5cpfsa6sqhjk7hb7nmis1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi96tdYFGBlMKPNYVpN4XV0QPnkLKtpDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108066321260-jaf1fmc7fuh5cpfsa6sqhjk7hb7nmis1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,6 @@
-<img src="ui_wireframes_vd/readme_banner.png">
+# sit_photography
+
+A new Flutter project.
 
 ## Getting Started
 
@@ -12,15 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-### Firebase
-
-This repo is using Firebase. App uses Cloud Firestore and Cloud Storage to handle image uploads and to store them.
-
-### Concept UI
-
- - Wireframes
-<img src="ui_wireframes_vd/wireframe.png">
-
- - Visual Designs
- <img src="ui_wireframes_vd/visual_design.png">
